@@ -1,0 +1,9 @@
+[submodule "judge-app"]
+	path = judge-app
+	url = git@github.com:DivasRegmi/judge-app.git
+[submodule "open-lifter"]
+	path = open-lifter
+	url = git@github.com:DivasRegmi/open-lifter.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:DivasRegmi/byayam-backend.git
